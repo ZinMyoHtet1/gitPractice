@@ -1,1 +1,2 @@
-this is lesson 1 file
+this is lesson 1 file.
+I added new feature.
